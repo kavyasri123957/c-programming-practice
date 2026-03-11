@@ -1,10 +1,8 @@
 #include<stdio.h>
-
 int main()
 {
     int arr[10][20], t[10][20];
     int r,c,i,j;
-
     printf("Enter rows and columns: ");
     scanf("%d%d",&r,&c);
 
